@@ -14,7 +14,7 @@ const fs=require('fs')
 
 fs.writeFileSync("mans.txt","my name is mas")
 console.log(process)
-
+ 
 
 
 
