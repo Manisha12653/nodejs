@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "manisha",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}
